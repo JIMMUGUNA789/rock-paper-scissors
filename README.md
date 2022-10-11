@@ -2,7 +2,8 @@
 simple rock paper scissors game
 
 ## Requirements:
-Python3\
+Python3
+
 ##Steps:
 Clone the repository\
 open terminal in the project folder\
